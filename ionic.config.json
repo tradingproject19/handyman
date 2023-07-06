@@ -1,0 +1,8 @@
+{
+  "name": "handyman",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "69da23f6"
+}
